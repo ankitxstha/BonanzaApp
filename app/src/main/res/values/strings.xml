@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BonanzaApp</string>
+    <string name="checkBox">com.example.BonanzaApp.checkBox</string>
+    <string name="EmailEditText">com.example.BonanzaApp.UsernameEditText</string>
+    <string name="passwordEditText">com.example.BonanzaApp.passwordEditText</string>
+
+
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+
+    <string name="no_internet">Please make sure you are connected with Internet and Try Again</string>
+
+</resources>

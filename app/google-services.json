@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964125275680",
+    "firebase_url": "https://bonanzaapp-85d3a.firebaseio.com",
+    "project_id": "bonanzaapp-85d3a",
+    "storage_bucket": "bonanzaapp-85d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964125275680:android:eb004b3d310639b9bfee45",
+        "android_client_info": {
+          "package_name": "com.example.bonanzaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964125275680-bd8hmfnbgs7s4isjuku7qs857n08asmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonanzaapp",
+            "certificate_hash": "f82f33af39c629be40daafb8c49b0b597fa7b548"
+          }
+        },
+        {
+          "client_id": "964125275680-f5hld8h2d2556i1v57vppodpkahv1qq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQxwPxLpQHhm4f_wBLIxaf-2IYJ25ysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964125275680-f5hld8h2d2556i1v57vppodpkahv1qq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
